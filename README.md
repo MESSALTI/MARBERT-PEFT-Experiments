@@ -185,7 +185,6 @@ The experimental pipeline records:
 
 * Software versions
 * CUDA and GPU information
-* Dataset SHA-256 hashes
 * Dataset sizes
 * Class distributions
 * Random seed
